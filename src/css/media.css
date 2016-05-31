@@ -1,0 +1,21 @@
+@media screen and (min-width:370px){
+	.about-us-describe,.our-team-describe,.latest-news-li,.latest-news-more,.footer-address-inner{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.about-us-ul-li1,.bb-intro-text-l{
+		left:10px;
+	}
+	.about-us-ul-li3,.bb-intro-text-r{
+		right: 10px;
+	}
+	.our-team-li-word-wrap{
+		left:10px;
+		right:10px;
+	}
+	.footer-address-p1{
+		font-size: 14px;
+	}
+	.footer-address-p2-img,.footer-address-p3-img{
+		margin-left: 15px;}
+}
